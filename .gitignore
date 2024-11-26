@@ -1,0 +1,5 @@
+.vscode
+node_modules
+.deployment
+install-node.sh
+package-lock.json
